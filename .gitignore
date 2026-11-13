@@ -1,0 +1,27 @@
+**/build/
+**/.gradle/
+**/local.properties
+**/__pycache__/
+*.jks
+*.keystore
+.idea/
+work/
+outputs/
+user-data/
+
+# Local agent settings, secrets and working files
+.claude/
+AGENTS.md
+unused/
+**/.kotlin/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+*.log
+.DS_Store
+Thumbs.db
