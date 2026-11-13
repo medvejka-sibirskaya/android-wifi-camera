@@ -1,0 +1,13 @@
+<resources>
+    <color name="petrol_primary">#0C6A76</color>
+    <color name="petrol_dark_surface">#103039</color>
+    <color name="petrol_light_surface">#EEF7F4</color>
+    <color name="petrol_dark_text">#E9F6F3</color>
+    <color name="petrol_light_text">#173C43</color>
+    <color name="petrol_dark_muted">#AECFCB</color>
+    <color name="petrol_light_muted">#476D72</color>
+    <color name="petrol_dark_button">#204B54</color>
+    <color name="petrol_light_button">#D7EBE6</color>
+    <color name="petrol_connected">#60C9AE</color>
+    <color name="petrol_dark_accent">#68CFC4</color>
+</resources>

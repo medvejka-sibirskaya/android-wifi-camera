@@ -1,0 +1,9 @@
+{
+  "directshow_enumeration": true,
+  "directshow_capture": true,
+  "size": [
+    1280,
+    720
+  ],
+  "frames": 24
+}

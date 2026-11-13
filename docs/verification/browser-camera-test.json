@@ -1,0 +1,6 @@
+{
+  "webrtc_enumeration": true,
+  "webrtc_capture": true,
+  "width": 1280,
+  "height": 720
+}

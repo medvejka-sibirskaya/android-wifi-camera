@@ -1,0 +1,24 @@
+{
+  "android_version": "0.3.0",
+  "receiver_version": "0.4.0",
+  "checks": {
+    "updated_apk_installed": true,
+    "real_phone_video": true,
+    "microphone_off_by_default": true,
+    "real_microphone_pcm_received": true,
+    "real_phone_avi_decoded": {
+      "video_frames": 30,
+      "size": [
+        1280,
+        720
+      ],
+      "audio_samples": 48000,
+      "seconds": 3.0
+    },
+    "explicit_microphone_mute": true,
+    "video_survives_muting": true,
+    "microphone_can_restart": true,
+    "background_stops_microphone": true,
+    "background_stops_video": true
+  }
+}

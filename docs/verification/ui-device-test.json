@@ -1,0 +1,54 @@
+{
+  "version": "0.2.0",
+  "checks": {
+    "readable_validation": true,
+    "bare_ip_and_four_digit_code": {
+      "size": [
+        720,
+        1280
+      ],
+      "bytes": 26912
+    },
+    "desktop_receives_phone_name": true,
+    "real_phone_jpeg_in_chromium": true,
+    "mirror_keeps_streaming": {
+      "size": [
+        720,
+        1280
+      ],
+      "bytes": 26635
+    },
+    "camera_switch": {
+      "size": [
+        720,
+        1280
+      ],
+      "bytes": 51999
+    },
+    "camera_switch_back": {
+      "size": [
+        720,
+        1280
+      ],
+      "bytes": 25392
+    },
+    "torch_on_off": true,
+    "settings_apply_1080p": {
+      "size": [
+        1080,
+        1920
+      ],
+      "bytes": 115499
+    },
+    "settings_saved_without_connection_code": true,
+    "disconnect_stops_transmission": true,
+    "reconnect_from_saved_address": {
+      "size": [
+        1080,
+        1920
+      ],
+      "bytes": 75301
+    },
+    "background_stops_transmission": true
+  }
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="connect">Подключиться</string><string name="disconnect">Отключить</string>
+    <string name="camera">Камера</string><string name="settings">Настройки</string>
+    <string name="torch">Фонарь</string><string name="mirror">Зеркало</string>
+    <string name="torch_on">Фонарь включён</string><string name="torch_off">Фонарь выключен</string>
+    <string name="mirror_on">Зеркало включено</string><string name="mirror_off">Зеркало выключено</string>
+    <string name="allow_camera">Разрешить камеру</string><string name="camera_permission">Для предпросмотра нужен доступ к камере</string>
+    <string name="disconnected">Нет соединения</string><string name="local_preview">Предпросмотр · передача выключена</string>
+    <string name="connection_state">Состояние соединения: %1$s</string>
+    <string name="connection">Подключение</string><string name="cancel">Отмена</string><string name="apply">Применить</string>
+    <string name="connection_help">На компьютере открой приёмник Wi-Fi Camera. Адрес и код показаны в его окне.</string>
+    <string name="computer_address">Адрес компьютера</string><string name="connection_code">Код из 4 цифр</string>
+    <string name="home_network">Компьютер может быть на кабеле, телефон — на Wi-Fi того же роутера.</string>
+    <string name="resolution">Разрешение видео</string><string name="quality">Качество передачи</string>
+    <string name="quality_value">Качество %1$d/100 · до 10 кадров/с</string>
+    <string name="appearance">Оформление</string><string name="dark_theme">Тёмная тема</string>
+    <string name="camera_gestures">Касание видео включает полный экран; ещё одно касание возвращает панели. Работает вертикально и горизонтально. Удержание фокусирует камеру. Два пальца меняют масштаб, если он поддерживается. Версия 0.3.0.</string>
+    <string name="fullscreen_status">%1$s · касание вернёт панели</string>
+    <string name="address_required">Введи адрес компьютера из окна приёмника</string>
+    <string name="address_invalid">Проверь адрес компьютера, например 192.168.1.10</string>
+    <string name="code_required">Введи все 4 цифры кода из окна приёмника</string>
+    <string name="connecting">Подключение…</string><string name="connected">Подключено</string>
+    <string name="waiting_pc">Ожидаем ответ компьютера</string>
+    <string name="connection_lost">Соединение потеряно</string><string name="retrying">Повторное подключение… Проверь приёмник и сеть.</string>
+    <string name="stream_info">%1$s · %2$s · до 10 кадров/с</string>
+    <string name="camera_error">Камера недоступна. Закрой другие приложения камеры и попробуй снова.</string>
+    <string name="bad_code">Неверный код. Проверь четыре цифры в окне компьютера.</string>
+    <string name="receiver_busy">Приёмник подключён к другому телефону. Перезапусти приёмник.</string>
+    <string name="too_many_codes">Слишком много неверных кодов. Подожди минуту.</string>
+    <string name="receiver_error">Приёмник отклонил кадр. Проверь его окно на компьютере.</string>
+    <string name="torch_error">Не удалось включить фонарь</string>
+    <string name="microphone">Микр.</string>
+    <string name="microphone_on">Микрофон включён: звук передаётся на компьютер</string>
+    <string name="microphone_off">Микрофон выключен</string>
+    <string name="microphone_denied">Нет разрешения на микрофон. Видео продолжит работать без звука.</string>
+    <string name="microphone_connect">Сначала подключись к компьютеру</string>
+</resources>

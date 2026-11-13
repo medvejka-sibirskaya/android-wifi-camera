@@ -1,0 +1,17 @@
+<resources>
+    <style name="PetrolCamera" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorAccent">@color/petrol_primary</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <style name="PetrolDialogDark" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@color/petrol_dark_accent</item>
+        <item name="android:colorBackground">@color/petrol_dark_surface</item>
+        <item name="android:windowBackground">@color/petrol_dark_surface</item>
+    </style>
+    <style name="PetrolDialogLight" parent="android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorAccent">@color/petrol_primary</item>
+        <item name="android:colorBackground">@color/petrol_light_surface</item>
+        <item name="android:windowBackground">@color/petrol_light_surface</item>
+    </style>
+</resources>
